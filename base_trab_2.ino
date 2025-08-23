@@ -1,7 +1,7 @@
-//TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS - SENAC NH
+//TÃ‰CNICO EM DESENVOLVIMENTO DE SISTEMAS - SENAC NH
 //Programa base para TRABALHO 2
 //PROF.: Glauber Kiss de Souza
-//DISC.: Analizar Orient. Técnicas
+//DISC.: Analizar Orient. TÃ©cnicas
 
 int soma = 1;
 int carryBit = 0;
@@ -11,7 +11,7 @@ int res1a,res1b,res1c,res1d = 0;
 
 void setup()
 {
-	pinMode(0, INPUT);
+	pinMode(0, INPUT); // Define pins 0 to 7 as inputs to read the nibbles. 
 	pinMode(1, INPUT);
 	pinMode(2, INPUT);
 	pinMode(3, INPUT);
@@ -19,12 +19,12 @@ void setup()
 	pinMode(5, INPUT);
 	pinMode(6, INPUT);
 	pinMode(7, INPUT);
-	pinMode(8, OUTPUT);
+	pinMode(8, OUTPUT); // Define pins 8 to 12 as outputs to display the sum result.
 	pinMode(9, OUTPUT);
 	pinMode(10, OUTPUT);
 	pinMode(11, OUTPUT);
 	pinMode(12, OUTPUT);
-	pinMode(13, INPUT);
+	pinMode(13, INPUT); // Input not used at the moment.
 }
 
 int somaBit(int b1a, int b2a, int cBit)
@@ -85,3 +85,4 @@ void loop()
 	digitalWrite(11,res1d);
 	digitalWrite(12,carryBit);
 }
+
