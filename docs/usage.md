@@ -10,3 +10,7 @@ Após configurar os valores de entrada, clique em “Run” para ver o sistema f
 O simulador mostra apenas os 4 bits menos significativos da soma. Isso significa que, se o resultado for maior que 15, ele será cortado (como se tivesse “transbordado”).
 - Experimente diferentes combinações
 Teste somas simples e mais complexas para entender como o sistema reage. Isso ajuda a visualizar como o Arduino interpreta sinais digitais.
+
+> Quando você conseguir fazer o hardware funcionar...
+
+![IMAGEM NÃO ENCONTRADA](https://github.com/fernando-dd-99/aot_trab2/blob/fernando_dietz/docs/images/meme1.gif "Happy kid")
