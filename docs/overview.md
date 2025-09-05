@@ -8,4 +8,6 @@ O que o sistema faz?
 - Exibe o resultado em LEDs conectados aos pinos de saída.
 
 > Quando você faz um hardware funcionar...
+
 ![IMAGEM NÃO ENCONTRADA](https://github.com/fernando-dd-99/aot_trab2/blob/fernando_dietz/docs/images/meme1.gif "Happy kid")
+
