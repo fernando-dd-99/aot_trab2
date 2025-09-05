@@ -1,8 +1,3 @@
-//TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS - SENAC NH
-//Programa base para TRABALHO 2
-//PROF.: Glauber Kiss de Souza
-//DISC.: Analizar Orient. Técnicas
-
 int soma = 1;
 int carryBit = 0;
 int nib1a,nib1b,nib1c,nib1d = 0;
@@ -85,4 +80,5 @@ void loop()
 	digitalWrite(11,res1d);
 	digitalWrite(12,carryBit);
 }
+
 
