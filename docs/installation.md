@@ -7,3 +7,6 @@ Para rodar o simulador, siga os passos abaixo:
 - Execute o simulador e carregue o código fornecido para iniciar a simulação.
 
 
+> Agora é só rodar a bagaça.
+
+![IMAGEM NÃO ENCONTRADA](https://github.com/fernando-dd-99/aot_trab2/blob/fernando_dietz/docs/images/memeinstala%C3%A7ao.jpg "Ô vô rákiá a épou")
