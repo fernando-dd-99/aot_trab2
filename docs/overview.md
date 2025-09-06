@@ -7,7 +7,8 @@ O que o sistema faz?
 - Soma esses valores e gera um resultado de 4 bits (com possível bit de transporte).
 - Exibe o resultado em LEDs conectados aos pinos de saída.
 
-> Quando você faz um hardware funcionar...
+> Bora testar o sistema
 
-![IMAGEM NÃO ENCONTRADA](https://github.com/fernando-dd-99/aot_trab2/blob/fernando_dietz/docs/images/meme1.gif "Happy kid")
+![IMAGEM NÃO ENCONTRADA](https://github.com/fernando-dd-99/aot_trab2/blob/fernando_dietz/docs/images/Jim_Carrey_typing.gif)
+
 
